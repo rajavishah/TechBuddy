@@ -3,6 +3,12 @@ TechBuddy web application is designed to be a social media platform that caters 
 
 Overall, our goal is to create a vibrant and supportive community of developers who can learn from one another, share their knowledge, and work together to advance their skills and careers.
 
+## To start the project:
+- On cmd: Start 'mongod'
+- On Server: npm run start
+- On Client: npm run dev
+
+  
 # The Home Page:
 ![TB1](https://github.com/rajavishah/TechBuddy/assets/122663941/c6f75c24-0119-4439-90a0-3d9981628425)
 
@@ -33,3 +39,4 @@ Overall, our goal is to create a vibrant and supportive community of developers 
 
 # Developer's Statistics:
 ![TB8](https://github.com/rajavishah/TechBuddy/assets/122663941/689b281d-f5fa-456b-9687-9c3067bcb198)
+

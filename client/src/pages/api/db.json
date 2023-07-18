@@ -1,0 +1,292 @@
+{
+  "posts": [
+    {
+      "title": " React JS plan",
+      "body": "React is the best",
+      "username": "rohan",
+      "views": 19,
+      "likes": [
+        "rohan",
+        "soumya"
+      ],
+      "comments": [
+        {
+          "comment_id": 123,
+          "comment_text": "This is a comment",
+          "username": "sheetal",
+          "timestamp": "2023-04-14T12:00:00Z",
+          "replies": [
+            {
+              "reply_id": 1,
+              "reply_text": "This is a reply",
+              "username": "rohan",
+              "timestamp": "2023-04-14T12:05:00Z"
+            },
+            {
+              "reply_id": 2,
+              "reply_text": "This is another reply",
+              "username": "rohan",
+              "timestamp": "2023-04-14T12:10:00Z"
+            },
+            {
+              "reply_id": 3,
+              "reply_text": "one more",
+              "username": "rohan",
+              "timestamp": "2023-04-14T12:12:00Z"
+            }
+          ]
+        }
+      ],
+      "bookmarks": [
+        "rohan",
+        "sheetal"
+      ],
+      "tags": [
+        "React",
+        "Javascript"
+      ],
+      "id": 1
+    },
+    {
+      "title": " CSS  plan",
+      "body": "React is the best",
+      "username": "rohan",
+      "views": 38,
+      "likes": [
+        "asd",
+        "asd"
+      ],
+      "comments": [
+        {
+          "comment_id": 123,
+          "comment_text": "This is a comment",
+          "username": "sheetal",
+          "timestamp": "2023-04-14T12:00:00Z",
+          "replies": [
+            {
+              "reply_id": 1,
+              "reply_text": "This is a reply",
+              "username": "rohan",
+              "timestamp": "2023-04-14T12:05:00Z"
+            },
+            {
+              "reply_id": 2,
+              "reply_text": "This is another reply",
+              "username": "rohan",
+              "timestamp": "2023-04-14T12:10:00Z"
+            }
+          ]
+        }
+      ],
+      "bookmarks": [
+        "rohan",
+        "sheetal"
+      ],
+      "tags": [
+        "CSS"
+      ],
+      "id": 2
+    },
+    {
+      "title": "JavaScript Tutorial",
+      "body": "JavaScript is a programming language used to create dynamic web content.",
+      "username": "johndoe",
+      "views": 83,
+      "likes": [
+        "johndoe",
+        "janedoe",
+        "bobsmith"
+      ],
+      "comments": [
+        {
+          "comment_id": 124,
+          "comment_text": "Great tutorial!",
+          "username": "janedoe",
+          "timestamp": "2023-04-16T14:30:00Z",
+          "replies": [
+            {
+              "reply_id": 4,
+              "reply_text": "Thank you!",
+              "username": "johndoe",
+              "timestamp": "2023-04-16T14:35:00Z"
+            }
+          ]
+        },
+        {
+          "comment_id": 125,
+          "comment_text": "Very helpful!",
+          "username": "bobsmith",
+          "timestamp": "2023-04-16T15:00:00Z",
+          "replies": [
+            {
+              "reply_id": 5,
+              "reply_text": "Glad you found it useful!",
+              "username": "johndoe",
+              "timestamp": "2023-04-16T15:05:00Z"
+            }
+          ]
+        }
+      ],
+      "bookmarks": [
+        "johndoe",
+        "janedoe",
+        "bobsmith"
+      ],
+      "tags": [
+        "Javascript"
+      ],
+      "id": 3
+    },
+    {
+      "title": "Java Fundamentals",
+      "body": "Java programming language is used for a wide range of applications.",
+      "username": "janedoe",
+      "views": 113,
+      "likes": [
+        "johndoe",
+        "janedoe",
+        "rohan"
+      ],
+      "comments": [
+        {
+          "comment_id": 126,
+          "comment_text": "Excellent introduction to Python!",
+          "username": "johndoe",
+          "timestamp": "2023-04-17T09:30:00Z",
+          "replies": [
+            {
+              "reply_id": 6,
+              "reply_text": "Thank you, glad you liked it!",
+              "username": "janedoe",
+              "timestamp": "2023-04-17T09:35:00Z"
+            }
+          ]
+        }
+      ],
+      "bookmarks": [
+        "johndoe",
+        "janedoe"
+      ],
+      "tags": [
+        "Java"
+      ],
+      "id": 887
+    },
+    {
+      "title": "Python Advanced",
+      "body": "Python is a high-level programming language used for a wide range of applications.",
+      "username": "janedoe",
+      "views": 113,
+      "likes": [
+        "johndoe",
+        "janedoe",
+        "rohan"
+      ],
+      "comments": [
+        {
+          "comment_id": 126,
+          "comment_text": "Excellent introduction to Python!",
+          "username": "johndoe",
+          "timestamp": "2023-04-17T09:30:00Z",
+          "replies": [
+            {
+              "reply_id": 6,
+              "reply_text": "Thank you, glad you liked it!",
+              "username": "janedoe",
+              "timestamp": "2023-04-17T09:35:00Z"
+            }
+          ]
+        }
+      ],
+      "bookmarks": [
+        "johndoe",
+        "janedoe"
+      ],
+      "tags": [
+        "Python"
+      ],
+      "id": 123123
+    },
+    {
+      "title": "Python Basics",
+      "body": "Python is a high-level programming language used for a wide range of applications.",
+      "username": "janedoe",
+      "views": 113,
+      "likes": [
+        "johndoe",
+        "janedoe",
+        "rohan"
+      ],
+      "comments": [
+        {
+          "comment_id": 126,
+          "comment_text": "Excellent introduction to Python!",
+          "username": "johndoe",
+          "timestamp": "2023-04-17T09:30:00Z",
+          "replies": [
+            {
+              "reply_id": 6,
+              "reply_text": "Thank you, glad you liked it!",
+              "username": "janedoe",
+              "timestamp": "2023-04-17T09:35:00Z"
+            }
+          ]
+        }
+      ],
+      "bookmarks": [
+        "johndoe",
+        "janedoe"
+      ],
+      "tags": [
+        "Python"
+      ],
+      "id": 88
+    }
+  ],
+  "challenges": [
+    {
+      "id": 1,
+      "title": "React Challenge",
+      "body": "this challenge is about ",
+      "tags": [
+        "Javascript",
+        "React"
+      ],
+      "registeredUsers": [
+        "rohan",
+        "sheetal"
+      ],
+      "submissions": 2,
+      "timestamp": "2023-04-14T12:00:00Z",
+      "author": "rohan"
+    },
+    {
+      "id": 2,
+      "title": "Python Challenge",
+      "body": "this challenge is about ",
+      "tags": [
+        "Python"
+      ],
+      "registeredUsers": [
+        "rohan",
+        "sheetal"
+      ],
+      "submissions": 5,
+      "timestamp": "2023-04-14T12:00:00Z",
+      "author": "sheetal"
+    }
+  ],
+  "submissions": [
+  
+    {
+      "id": 2,
+      "submissions": 5,
+      "timestamp": "2023-04-14T12:00:00Z",
+      "author": "rohan",
+      "submittedBy": [
+        "sheetal"
+      ],
+      "challengeId": 1
+    }
+  ]
+}

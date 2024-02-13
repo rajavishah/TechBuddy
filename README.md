@@ -21,7 +21,7 @@ Overall, our goal is to create a vibrant and supportive community of developers 
 ![TB3](https://github.com/rajavishah/TechBuddy/assets/122663941/2632de9d-54d4-4810-add3-5a4c7e7f3a1b)
 
 
-# Reister in a Challenge:
+# Register in a Challenge:
 ![TB4](https://github.com/rajavishah/TechBuddy/assets/122663941/76914db7-ada0-4275-ad1f-b795002cc614)
 
 
